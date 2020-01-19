@@ -1,0 +1,20 @@
+{
+    "test": {
+        "awscloudformation": {
+            "AuthRoleName": "lucky1-test-20200118203329-authRole",
+            "UnauthRoleArn": "arn:aws:iam::447075351966:role/lucky1-test-20200118203329-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::447075351966:role/lucky1-test-20200118203329-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "lucky1-test-20200118203329-deployment",
+            "UnauthRoleName": "lucky1-test-20200118203329-unauthRole",
+            "StackName": "lucky1-test-20200118203329",
+            "StackId": "arn:aws:cloudformation:us-west-2:447075351966:stack/lucky1-test-20200118203329/d7835ff0-3a74-11ea-903c-0aa27834ab52",
+            "AmplifyAppId": "d2esd8lqcpwjw2"
+        },
+        "categories": {
+            "auth": {
+                "lucky1824cd4ba": {}
+            }
+        }
+    }
+}

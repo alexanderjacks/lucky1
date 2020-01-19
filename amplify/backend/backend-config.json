@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"lucky1824cd4ba": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
